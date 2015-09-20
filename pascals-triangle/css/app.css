@@ -1,0 +1,29 @@
+canvas {
+  width: 100%;
+  height: 100%;
+  background: yellow; }
+
+.pascals-triangle {
+  text-align: center;
+  font-weight: bold; }
+  .pascals-triangle a {
+    display: inline-block;
+    box-sizing: border-box;
+    line-height: 3rem;
+    width: 3rem;
+    background-color: rgba(100, 100, 100, 0.5);
+    border: 1px solid black; }
+    .pascals-triangle a:nth-of-type(2), .pascals-triangle a:nth-last-of-type(2) {
+      background: rgba(255, 0, 0, 0.5);
+      color: red; }
+    .pascals-triangle a:nth-of-type(3), .pascals-triangle a:nth-last-of-type(3) {
+      background: rgba(0, 255, 0, 0.5);
+      color: blue; }
+    .pascals-triangle a:nth-of-type(4), .pascals-triangle a:nth-last-of-type(4) {
+      background: rgba(0, 0, 255, 0.5);
+      color: blue; }
+    .pascals-triangle a.odd {
+      background: black;
+      color: white; }
+
+/*# sourceMappingURL=app.css.map */
