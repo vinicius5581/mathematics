@@ -17,3 +17,6 @@ Resources:
 
 http://rosettacode.org/wiki/Pascal's_triangle
 http://www.geeksforgeeks.org/pascal-triangle/
+
+
+Lembrando dos tempos que as opções para visualizar figuras geométricas dependiam de gravuras em livros e desenhos na lousa dei início ao projeto "Mathematics".
